@@ -5,5 +5,7 @@
 >npm -v 
 
 ## Lets start
-> git  (Создаем .gitignore, проделываем коммит, пушим)
-> npm install (создаем package.json )
+ * Создаем .gitignore, проделываем коммит, пушим)
+> git 
+*создаем package.json 
+> npm install 
