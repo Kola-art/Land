@@ -1,6 +1,7 @@
 # Первый ленднинг
 ## Before start
->node -v ( установлен ли NODE)
+* установлен ли NODE
+>node -v 
 >npm -v 
 
 ## Lets start
