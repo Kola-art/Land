@@ -1,8 +1,8 @@
 # Первый ленднинг
 ## Before start
->node -v ( устонавлен ли NODE)
+>node -v ( установлен ли NODE)
 >npm -v 
 
 ## Lets start
-> git clone https://github.com/Kola-art/Land.git (Клонируем с github)
+> git  (Создаем .gitignore, проделываем коммит, пушим)
 > npm install (создаем package.json )
